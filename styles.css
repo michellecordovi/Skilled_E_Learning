@@ -1,0 +1,172 @@
+/* UNiversal Styles */
+
+* {
+      padding: 0;
+      margin:0;
+      box-sizing: border-box;
+}
+
+html {
+      font-size: 16px;
+      font-family: "Plus Jakarta Sans", Verdana, Arial, sans-serif;
+      color: #13183F;
+}
+
+h1, h2, h3, h4 {
+      font-weight: 800;
+}
+
+h1 {
+      font-size:3.5rem;
+}
+
+h2 {
+      font-size:2.5rem;
+}
+
+h3 {
+      font-size: 2rem;
+}
+
+h4 {
+      font-size: 1.5rem;
+}
+
+p{
+      font-size: 1.125rem;
+      color: #83869A;
+}
+
+body {
+      background: linear-gradient(#fff, #666ca33a );
+}
+
+.button {
+      color:#ffffff;
+      height: 3rem;
+      width: 10rem;
+      font-weight: 500;
+      border-radius: 25px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+}
+
+.button:hover {
+      opacity: 0.6;
+}
+
+nav .button {
+      background-color:#13183F;
+      box-shadow: 0px 1px 5px black;
+}
+
+.banner .button { 
+      background: linear-gradient(#FF6F48, #F02AA6);
+}
+
+footer .button { 
+      background: linear-gradient(#4851FF, #F02AA6);
+}
+
+.page-contents {
+      width: 100%;
+      margin: 0px auto;
+      position: relative;
+      overflow: hidden;
+}
+
+/* HERO SECTION */
+
+.top {
+      width: 75%;
+      height: 45rem;
+      margin: 2rem auto 7rem;
+      overflow: hidden;
+}
+
+nav {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+}
+
+.banner {
+      height: 100%;
+}
+
+.banner-box {
+      width: 28.9rem;
+      margin-top: 8rem;
+}
+
+.banner-box p {
+      margin: 2.5rem 0px;
+}
+
+.banner img {
+      position: absolute;
+      top: -10%;
+      right: -20%;
+      z-index: -1;
+}
+
+
+
+/* COURSES SECTION */
+
+.bottom {
+      width: 75%;
+      margin: 0rem auto 5rem;
+}
+
+.courses {
+      width: 100%;
+      height: 46rem;
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      grid-template-rows: 1fr 1fr;
+      column-gap: 1.875rem;
+      row-gap: 2.5rem;
+}
+
+.block {
+      background-color: #fff;
+      border-radius: 1rem;
+      padding: 3rem 2rem;
+      line-height: 2rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-evenly;
+}
+
+
+.block.one {
+      background: linear-gradient(#FF6F48, #F02AA6);
+      color: #ffffff;
+}
+
+.start {
+      color: #F74780;
+      font-weight: 800;
+}
+
+
+/* FOOTER */
+
+footer {
+      width: 100%;
+      background-color:#13183F;
+      color: #ffffff;
+      display: flex;
+      justify-content: space-between;
+}
+
+.footer-content {
+      width: 75%;
+      padding: 1rem 0;
+      margin: 0px auto;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+}
