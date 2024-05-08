@@ -117,6 +117,57 @@ nav {
       display: none;
 }
 
+@media only screen and (max-width:1250px) {
+      .top {
+            width: 90%;
+      }
+      
+      .desktop-img{
+            display: none;
+      }
+      
+      .tablet-img{
+            display: inline-block;
+            position: absolute;
+            top: -2%;
+            right: -25%;
+      }
+}
+
+@media only screen and (max-width: 885px) {
+      .tablet-img{
+            top: -2%;
+            right: -35%;
+      }
+}
+
+@media only screen and (max-width: 825px) {
+      .tablet-img {
+            display: none;
+      }
+
+      .mobile-img {
+            display: inline-block;
+      }
+
+      .top {
+            height: fit-content;
+      }
+
+      .banner {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            gap: 5rem;
+      }
+
+      .banner-box {
+            width: 90%;
+      }
+}
+
+
 
 
 /* COURSES SECTION */
