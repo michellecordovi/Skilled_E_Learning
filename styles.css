@@ -104,12 +104,11 @@ nav {
       margin: 2.5rem 0px;
 }
 
-.banner .desktop-img {
+.desktop-img {
       position: absolute;
       top: -10%;
       right: -20%;
       z-index: -1;
-      transition-timing-function: ease;
 }
 
 .tablet-img,
