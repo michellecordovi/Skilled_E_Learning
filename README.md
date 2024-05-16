@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/michellecordovi/Skilled_E_Learning](https://your-solution-url.com)
-- Live Site URL: [https://michellecordovi.github.io/Skilled_E_Learning/](https://your-live-site-url.com)
+- Solution URL: [https://github.com/michellecordovi/Skilled_E_Learning]
+- Live Site URL: [https://michellecordovi.github.io/Skilled_E_Learning/]
 
 ## My process
 
