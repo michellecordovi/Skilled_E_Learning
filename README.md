@@ -25,9 +25,11 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
-![127 0 0 1_5500_index html (1)](https://github.com/michellecordovi/Skilled_E_Learning/assets/165519977/ccbbb0c7-d03a-4526-b4cc-0e2fec645470)
+![127 0 0 1_5500_index html (3)](https://github.com/michellecordovi/Skilled_E_Learning/assets/165519977/5f079ad0-656a-4f9f-bbfc-feff926578ef)
 
-![127 0 0 1_5500_index html](https://github.com/michellecordovi/Skilled_E_Learning/assets/165519977/317da7a8-0368-4a1a-b3fd-546268e9b7e0)
+
+![127 0 0 1_5500_index html (2)](https://github.com/michellecordovi/Skilled_E_Learning/assets/165519977/3714518f-cd60-4e2b-8265-953295f4590d)
+
 
 
 ### Links
