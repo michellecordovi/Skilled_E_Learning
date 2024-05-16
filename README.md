@@ -26,7 +26,8 @@ Users should be able to:
 
 ### Screenshot
 ![127 0 0 1_5500_index html (1)](https://github.com/michellecordovi/Skilled_E_Learning/assets/165519977/ccbbb0c7-d03a-4526-b4cc-0e2fec645470)
-![127 0 0 1_5500_index html](https://github.com/michellecordovi/Skilled_E_Learning/assets/165519977/64dfe322-92e7-4894-a984-6b3c529a68f1)
+
+![127 0 0 1_5500_index html](https://github.com/michellecordovi/Skilled_E_Learning/assets/165519977/317da7a8-0368-4a1a-b3fd-546268e9b7e0)
 
 
 ### Links
