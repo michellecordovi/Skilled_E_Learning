@@ -214,7 +214,7 @@ nav {
       font-weight: 800;
 }
 
-.block svg {
+.block .icon {
       position: absolute;
       top: -8%;
       left: 20;
